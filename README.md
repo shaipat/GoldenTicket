@@ -1,7 +1,8 @@
 # GoldenTicket
-Web Project, cinema tickets ordering system, built with Javascript, Bootstrap, and ASP.NET, using Microsoft SQL Databse
+Web Project, cinema tickets ordering system.  
+Built with Javascript, Bootstrap, ASP.NET, C#, Microsoft SQL Server.
 
-
+## Screenshots
 ![Home Page](SCREENSHOTS/1Homepage.jpg)
 
 ![Tickets Page](SCREENSHOTS/2Tickets.jpg)
